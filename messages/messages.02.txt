@@ -1,0 +1,76 @@
+Wed Sep  6 16:29:17 CEST 2023
+Python 3.7.12
+about to start working
+about to map reads
+[M::mm_idx_gen::5.178*1.51] collected minimizers
+[M::mm_idx_gen::6.288*1.90] sorted minimizers
+[M::main::6.370*1.87] loaded/built the index for 207249 target sequence(s)
+[M::mm_mapopt_update::6.818*1.81] mid_occ = 148
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 207249
+[M::mm_idx_stat::6.990*1.79] distinct minimizers: 16930105 (38.36% are singletons); average occurrences: 4.269; average spacing: 5.397; total length: 390035142
+[M::worker_pipeline::58.138*3.67] mapped 459950 sequences
+[M::worker_pipeline::99.780*3.86] mapped 458463 sequences
+[M::worker_pipeline::147.643*3.89] mapped 458227 sequences
+[M::worker_pipeline::199.504*3.94] mapped 455741 sequences
+[M::worker_pipeline::238.723*3.97] mapped 455854 sequences
+[M::worker_pipeline::284.536*3.99] mapped 455795 sequences
+[M::worker_pipeline::331.985*4.01] mapped 455522 sequences
+[M::worker_pipeline::385.279*4.02] mapped 456240 sequences
+[M::worker_pipeline::425.818*4.03] mapped 457414 sequences
+[M::worker_pipeline::475.342*4.02] mapped 457890 sequences
+[M::worker_pipeline::481.832*3.98] mapped 122918 sequences
+[M::main] Version: 2.26-r1175
+[M::main] CMD: minimap2 -ax map-ont -t 4 /Users/adrian/databases/ensembl_transcriptome/Homo_sapiens.GRCh38.cdna.all.fa /Users/adrian/projects/oskjuhlid/data/august23/ctrl/20230817_1451_2G_PAG78117_b8f781c9/fastq_pass/merged.fastq
+[M::main] Real time: 481.931 sec; CPU: 1916.851 sec; Peak RSS: 3.072 GB
+[bam_sort_core] merging from 13 files and 1 in-memory blocks...
+
+real	11m5.944s
+user	36m9.578s
+sys	0m52.938s
+about to index generated bam file
+
+real	0m23.741s
+user	0m22.881s
+sys	0m0.750s
+
+real	0m0.051s
+user	0m0.039s
+sys	0m0.006s
+about to map reads
+[M::mm_idx_gen::5.219*1.47] collected minimizers
+[M::mm_idx_gen::6.370*1.91] sorted minimizers
+[M::main::6.453*1.89] loaded/built the index for 207249 target sequence(s)
+[M::mm_mapopt_update::6.880*1.83] mid_occ = 148
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 207249
+[M::mm_idx_stat::7.057*1.81] distinct minimizers: 16930105 (38.36% are singletons); average occurrences: 4.269; average spacing: 5.397; total length: 390035142
+[M::worker_pipeline::76.034*3.76] mapped 455108 sequences
+[M::worker_pipeline::136.935*3.91] mapped 453437 sequences
+[M::worker_pipeline::206.234*3.96] mapped 453641 sequences
+[M::worker_pipeline::261.504*3.99] mapped 457064 sequences
+[M::worker_pipeline::321.888*4.01] mapped 458227 sequences
+[M::worker_pipeline::390.593*4.03] mapped 454038 sequences
+[M::worker_pipeline::446.113*4.04] mapped 454212 sequences
+[M::worker_pipeline::516.193*4.04] mapped 452612 sequences
+[M::worker_pipeline::574.138*4.05] mapped 451897 sequences
+[M::worker_pipeline::639.035*4.05] mapped 451830 sequences
+[M::worker_pipeline::711.123*4.05] mapped 452556 sequences
+[M::worker_pipeline::759.850*4.01] mapped 427640 sequences
+[M::main] Version: 2.26-r1175
+[M::main] CMD: minimap2 -ax map-ont -t 4 /Users/adrian/databases/ensembl_transcriptome/Homo_sapiens.GRCh38.cdna.all.fa /Users/adrian/projects/oskjuhlid/data/august23/fto/20230817_1451_1G_PAG77644_b6ab55c1/fastq_pass/merged.fastq
+[M::main] Real time: 759.951 sec; CPU: 3049.269 sec; Peak RSS: 3.643 GB
+[bam_sort_core] merging from 16 files and 1 in-memory blocks...
+
+real	16m46.401s
+user	56m28.324s
+sys	1m0.350s
+about to index generated bam file
+
+real	0m29.841s
+user	0m28.802s
+sys	0m0.978s
+
+real	0m0.052s
+user	0m0.039s
+sys	0m0.006s
+all done.
+Wed Sep  6 16:58:03 CEST 2023

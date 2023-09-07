@@ -1,0 +1,9 @@
+Thu Sep  7 12:44:25 CEST 2023
+Error while loading conda entry point: conda-libmamba-solver (dlopen(/Users/adrian/anaconda3/lib/python3.11/site-packages/libmambapy/bindings.cpython-311-darwin.so, 0x0002): Library not loaded: @rpath/libarchive.19.dylib
+  Referenced from: <9391E88D-A5AA-33C9-8306-75BC6FFBC365> /Users/adrian/anaconda3/lib/libmamba.2.0.0.dylib
+  Reason: tried: '/Users/adrian/anaconda3/lib/libarchive.19.dylib' (no such file), '/Users/adrian/anaconda3/lib/python3.11/site-packages/libmambapy/../../../libarchive.19.dylib' (no such file), '/Users/adrian/anaconda3/lib/python3.11/site-packages/libmambapy/../../../libarchive.19.dylib' (no such file), '/Users/adrian/anaconda3/bin/../lib/libarchive.19.dylib' (no such file), '/Users/adrian/anaconda3/bin/../lib/libarchive.19.dylib' (no such file), '/usr/local/lib/libarchive.19.dylib' (no such file), '/usr/lib/libarchive.19.dylib' (no such file, not in dyld cache))
+usage: conda [-h] [--no-plugins] [-V] COMMAND ...
+conda: error: argument COMMAND: invalid choice: 'activate' (choose from 'clean', 'compare', 'config', 'create', 'info', 'init', 'install', 'list', 'notices', 'package', 'remove', 'uninstall', 'rename', 'run', 'search', 'update', 'upgrade', 'build', 'content-trust', 'convert', 'debug', 'develop', 'doctor', 'index', 'inspect', 'metapackage', 'render', 'skeleton', 'server', 'token', 'verify', 'pack', 'env', 'repo')
+Python 3.7.12
+about to start working
+about to segment
