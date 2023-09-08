@@ -1,0 +1,10 @@
+Thu Sep  7 16:38:22 GMT 2023
+Python 3.7.12
+about to start working
+/scratch/users/adrian/459966-OR1p
+about to map reads
+about to index generated bam file
+about to map reads
+about to index generated bam file
+all done.
+Thu Sep  7 16:53:38 GMT 2023

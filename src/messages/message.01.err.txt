@@ -1,0 +1,12 @@
+[readdb] indexing /hpcdata/Mimir/adrian/projects/oskjuhlid/data/august23/ctrl/20230817_1451_2G_PAG78117_b8f781c9/fast5_pass/
+[readdb] num reads: 4694014, num reads with path to fast5: 4694014
+
+real	10m50.791s
+user	10m38.671s
+sys	0m7.941s
+[readdb] indexing /hpcdata/Mimir/adrian/projects/oskjuhlid/data/august23/fto/20230817_1451_1G_PAG77644_b6ab55c1/fast5_pass/
+[readdb] num reads: 5422262, num reads with path to fast5: 5422262
+
+real	13m58.674s
+user	13m44.725s
+sys	0m8.979s
