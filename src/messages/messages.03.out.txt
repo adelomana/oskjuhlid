@@ -3,3 +3,7 @@ Python 3.7.12
 about to start working
 /scratch/users/adrian/462293-U8wp
 about to align
+about to copy results
+about to remove scratch dir
+all done.
+Fri Sep  8 19:51:06 GMT 2023

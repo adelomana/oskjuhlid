@@ -14,3 +14,12 @@ sys	0m0.204s
 real	0m2.264s
 user	0m0.002s
 sys	0m0.502s
+[post-run summary] total reads: 4499824, unparseable: 0, qc fail: 45563, could not calibrate: 52529, no alignment: 24372, bad fast5: 0
+
+real	327m36.140s
+user	4312m48.614s
+sys	37m8.292s
+
+real	15m41.311s
+user	0m1.161s
+sys	10m7.361s

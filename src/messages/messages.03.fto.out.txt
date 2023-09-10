@@ -1,0 +1,7 @@
+Sun Sep 10 18:02:49 GMT 2023
+Python 3.7.12
+/users/home/adrian/projects/oskjuhlid/src
+about to start working
+the scratch dir is:
+/scratch/users/adrian/464638-IRvz
+about to align

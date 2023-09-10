@@ -7,6 +7,10 @@
 #SBATCH --output=messages/messages.03.out.txt   
 #SBATCH --error=messages/messages.03.err.txt
 
+#
+# info | this script took around 3 hours and 45 min in real elapsed time.
+#
+
 date
 python --version
 pwd
