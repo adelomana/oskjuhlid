@@ -1,13 +1,13 @@
-Sun Sep 10 18:02:49 GMT 2023
+Mon Sep 11 11:09:12 GMT 2023
 Python 3.7.12
 /users/home/adrian/projects/oskjuhlid/src
 about to start working
 the scratch dir is:
-/scratch/users/adrian/464638-IRvz
+/scratch/users/adrian/465015-Ilfe
 about to align
 about to copy results out of scratch to my dirs
 /users/home/adrian/projects/oskjuhlid/src
 /users/home/adrian/projects/oskjuhlid/src
 about to remove scratch dir
 all done.
-Mon Sep 11 04:12:46 GMT 2023
+Tue Sep 12 15:19:05 GMT 2023
