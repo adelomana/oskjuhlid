@@ -1,0 +1,5 @@
+[post-run summary] total reads: 6012382, unparseable: 0, qc fail: 101899, could not calibrate: 30716, no alignment: 7791, bad fast5: 0
+
+real	768m51.666s
+user	12027m33.033s
+sys	94m53.423s

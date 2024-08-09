@@ -1,0 +1,252 @@
+
+real	0m10.436s
+user	0m0.000s
+sys	0m0.217s
+
+real	13m35.951s
+user	0m0.661s
+sys	3m6.118s
+
+real	7m49.497s
+user	0m0.397s
+sys	1m45.980s
+
+real	16m37.637s
+user	0m0.840s
+sys	3m55.293s
+
+real	16m3.174s
+user	0m0.857s
+sys	3m59.676s
+
+real	7m59.185s
+user	0m0.433s
+sys	2m7.440s
+
+real	11m5.071s
+user	0m0.592s
+sys	2m52.527s
+[M::mm_idx_gen::5.714*1.49] collected minimizers
+[M::mm_idx_gen::6.083*2.35] sorted minimizers
+[M::main::6.146*2.32] loaded/built the index for 207249 target sequence(s)
+[M::mm_mapopt_update::6.527*2.25] mid_occ = 148
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 207249
+[M::mm_idx_stat::6.757*2.20] distinct minimizers: 16930105 (38.36% are singletons); average occurrences: 4.269; average spacing: 5.397; total length: 390035142
+[M::worker_pipeline::61.652*11.67] mapped 527702 sequences
+[M::worker_pipeline::92.449*12.95] mapped 527382 sequences
+[M::worker_pipeline::130.917*13.58] mapped 527357 sequences
+[M::worker_pipeline::144.977*13.06] mapped 529087 sequences
+[M::worker_pipeline::188.577*13.68] mapped 530962 sequences
+[M::worker_pipeline::225.484*13.87] mapped 533610 sequences
+[M::worker_pipeline::240.700*13.55] mapped 538451 sequences
+[M::worker_pipeline::285.505*13.89] mapped 540998 sequences
+[M::worker_pipeline::319.470*13.95] mapped 525277 sequences
+[M::worker_pipeline::340.060*13.89] mapped 523956 sequences
+[M::worker_pipeline::389.515*14.11] mapped 523449 sequences
+[M::worker_pipeline::399.273*13.87] mapped 524211 sequences
+[M::worker_pipeline::445.203*14.02] mapped 524299 sequences
+[M::worker_pipeline::477.868*13.90] mapped 523905 sequences
+[M::worker_pipeline::478.569*13.88] mapped 212970 sequences
+[M::main] Version: 2.26-r1175
+[M::main] CMD: minimap2 -ax map-ont -t 16 Homo_sapiens.GRCh38.cdna.all.fa siCtrl_1/20240301_1458_1A_PAS65957_6f46460d/fastq_pass/merged.fastq.gz
+[M::main] Real time: 478.690 sec; CPU: 6641.226 sec; Peak RSS: 5.859 GB
+[bam_sort_core] merging from 19 files and 1 in-memory blocks...
+
+real	13m20.503s
+user	118m17.801s
+sys	0m38.705s
+[M::mm_idx_gen::5.483*1.47] collected minimizers
+[M::mm_idx_gen::5.848*2.36] sorted minimizers
+[M::main::5.905*2.34] loaded/built the index for 207249 target sequence(s)
+[M::mm_mapopt_update::6.271*2.26] mid_occ = 148
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 207249
+[M::mm_idx_stat::6.499*2.22] distinct minimizers: 16930105 (38.36% are singletons); average occurrences: 4.269; average spacing: 5.397; total length: 390035142
+[M::worker_pipeline::66.034*12.08] mapped 472752 sequences
+[M::worker_pipeline::100.524*13.20] mapped 469514 sequences
+[M::worker_pipeline::144.684*13.91] mapped 467728 sequences
+[M::worker_pipeline::161.927*13.62] mapped 469327 sequences
+[M::worker_pipeline::205.534*14.07] mapped 471669 sequences
+[M::worker_pipeline::250.132*14.33] mapped 475332 sequences
+[M::worker_pipeline::269.530*14.20] mapped 480398 sequences
+[M::worker_pipeline::306.053*14.14] mapped 490149 sequences
+[M::worker_pipeline::312.283*13.86] mapped 93797 sequences
+[M::main] Version: 2.26-r1175
+[M::main] CMD: minimap2 -ax map-ont -t 16 Homo_sapiens.GRCh38.cdna.all.fa siCtrl_2/20240301_1458_1B_PAS23131_a71fd82f/fastq_pass/merged.fastq.gz
+[M::main] Real time: 312.388 sec; CPU: 4327.898 sec; Peak RSS: 5.863 GB
+[bam_sort_core] merging from 11 files and 1 in-memory blocks...
+
+real	8m16.641s
+user	76m28.421s
+sys	0m22.228s
+[M::mm_idx_gen::5.429*1.47] collected minimizers
+[M::mm_idx_gen::5.794*2.37] sorted minimizers
+[M::main::5.852*2.35] loaded/built the index for 207249 target sequence(s)
+[M::mm_mapopt_update::6.216*2.27] mid_occ = 148
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 207249
+[M::mm_idx_stat::6.445*2.22] distinct minimizers: 16930105 (38.36% are singletons); average occurrences: 4.269; average spacing: 5.397; total length: 390035142
+[M::worker_pipeline::67.034*12.17] mapped 465389 sequences
+[M::worker_pipeline::107.111*13.49] mapped 465524 sequences
+[M::worker_pipeline::150.964*14.09] mapped 466568 sequences
+[M::worker_pipeline::171.973*14.02] mapped 466533 sequences
+[M::worker_pipeline::215.904*14.37] mapped 467251 sequences
+[M::worker_pipeline::261.106*14.57] mapped 469047 sequences
+[M::worker_pipeline::281.781*14.41] mapped 471059 sequences
+[M::worker_pipeline::335.504*14.60] mapped 471991 sequences
+[M::worker_pipeline::357.673*14.54] mapped 474057 sequences
+[M::worker_pipeline::399.972*14.66] mapped 477529 sequences
+[M::worker_pipeline::445.667*14.75] mapped 488945 sequences
+[M::worker_pipeline::466.505*14.70] mapped 467185 sequences
+[M::worker_pipeline::519.022*14.79] mapped 463729 sequences
+[M::worker_pipeline::542.236*14.77] mapped 464121 sequences
+[M::worker_pipeline::586.069*14.84] mapped 464092 sequences
+[M::worker_pipeline::632.203*14.89] mapped 463892 sequences
+[M::worker_pipeline::654.548*14.87] mapped 464879 sequences
+[M::worker_pipeline::703.573*14.84] mapped 464059 sequences
+[M::worker_pipeline::704.573*14.82] mapped 245994 sequences
+[M::main] Version: 2.26-r1175
+[M::main] CMD: minimap2 -ax map-ont -t 16 Homo_sapiens.GRCh38.cdna.all.fa siCtrl_3/20240301_1458_1C_PAS23868_39694623/fastq_pass/merged.fastq.gz
+[M::main] Real time: 704.677 sec; CPU: 10444.078 sec; Peak RSS: 6.119 GB
+[bam_sort_core] merging from 25 files and 1 in-memory blocks...
+
+real	18m58.464s
+user	184m26.186s
+sys	0m47.724s
+[M::mm_idx_gen::5.443*1.47] collected minimizers
+[M::mm_idx_gen::5.808*2.37] sorted minimizers
+[M::main::5.866*2.35] loaded/built the index for 207249 target sequence(s)
+[M::mm_mapopt_update::6.230*2.27] mid_occ = 148
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 207249
+[M::mm_idx_stat::6.459*2.22] distinct minimizers: 16930105 (38.36% are singletons); average occurrences: 4.269; average spacing: 5.397; total length: 390035142
+[M::worker_pipeline::65.163*12.09] mapped 461534 sequences
+[M::worker_pipeline::98.649*13.30] mapped 460261 sequences
+[M::worker_pipeline::142.600*13.99] mapped 461701 sequences
+[M::worker_pipeline::160.242*13.78] mapped 461846 sequences
+[M::worker_pipeline::204.469*14.20] mapped 463828 sequences
+[M::worker_pipeline::244.725*14.31] mapped 465397 sequences
+[M::worker_pipeline::265.954*14.20] mapped 466783 sequences
+[M::worker_pipeline::309.167*14.41] mapped 467873 sequences
+[M::worker_pipeline::353.757*14.55] mapped 470815 sequences
+[M::worker_pipeline::363.880*14.28] mapped 474752 sequences
+[M::worker_pipeline::424.928*14.47] mapped 483106 sequences
+[M::worker_pipeline::436.008*14.24] mapped 466182 sequences
+[M::worker_pipeline::487.357*14.40] mapped 458839 sequences
+[M::worker_pipeline::528.789*14.46] mapped 457431 sequences
+[M::worker_pipeline::549.154*14.40] mapped 457466 sequences
+[M::worker_pipeline::593.439*14.50] mapped 457997 sequences
+[M::worker_pipeline::640.184*14.57] mapped 458371 sequences
+[M::worker_pipeline::654.502*14.46] mapped 458883 sequences
+[M::worker_pipeline::686.705*14.36] mapped 404257 sequences
+[M::main] Version: 2.26-r1175
+[M::main] CMD: minimap2 -ax map-ont -t 16 Homo_sapiens.GRCh38.cdna.all.fa siFTO_1/20240301_1458_1D_PAS67735_16d64039/fastq_pass/merged.fastq.gz
+[M::main] Real time: 686.819 sec; CPU: 9864.482 sec; Peak RSS: 5.177 GB
+[bam_sort_core] merging from 25 files and 1 in-memory blocks...
+
+real	18m39.027s
+user	174m33.533s
+sys	0m48.922s
+[M::mm_idx_gen::5.448*1.47] collected minimizers
+[M::mm_idx_gen::5.820*2.38] sorted minimizers
+[M::main::5.880*2.36] loaded/built the index for 207249 target sequence(s)
+[M::mm_mapopt_update::6.249*2.28] mid_occ = 148
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 207249
+[M::mm_idx_stat::6.483*2.23] distinct minimizers: 16930105 (38.36% are singletons); average occurrences: 4.269; average spacing: 5.397; total length: 390035142
+[M::worker_pipeline::58.241*11.39] mapped 483437 sequences
+[M::worker_pipeline::76.489*11.44] mapped 490152 sequences
+[M::worker_pipeline::113.193*12.81] mapped 470374 sequences
+[M::worker_pipeline::143.472*13.03] mapped 469193 sequences
+[M::worker_pipeline::160.747*12.88] mapped 470163 sequences
+[M::worker_pipeline::198.223*13.41] mapped 470785 sequences
+[M::worker_pipeline::217.958*13.34] mapped 471552 sequences
+[M::worker_pipeline::261.117*13.69] mapped 472118 sequences
+[M::worker_pipeline::268.777*13.33] mapped 474996 sequences
+[M::worker_pipeline::303.408*13.17] mapped 477031 sequences
+[M::worker_pipeline::303.544*13.16] mapped 34252 sequences
+[M::main] Version: 2.26-r1175
+[M::main] CMD: minimap2 -ax map-ont -t 16 Homo_sapiens.GRCh38.cdna.all.fa siFTO_2/20240301_1458_1E_PAS66599_6555e094/fastq_pass/merged.fastq.gz
+[M::main] Real time: 303.642 sec; CPU: 3995.972 sec; Peak RSS: 5.800 GB
+[bam_sort_core] merging from 12 files and 1 in-memory blocks...
+
+real	8m31.584s
+user	71m25.271s
+sys	0m26.071s
+[M::mm_idx_gen::5.677*1.51] collected minimizers
+[M::mm_idx_gen::6.051*2.39] sorted minimizers
+[M::main::6.112*2.37] loaded/built the index for 207249 target sequence(s)
+[M::mm_mapopt_update::6.495*2.29] mid_occ = 148
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 207249
+[M::mm_idx_stat::6.729*2.24] distinct minimizers: 16930105 (38.36% are singletons); average occurrences: 4.269; average spacing: 5.397; total length: 390035142
+[M::worker_pipeline::60.034*11.65] mapped 437501 sequences
+[M::worker_pipeline::86.123*12.47] mapped 437571 sequences
+[M::worker_pipeline::122.590*13.42] mapped 439534 sequences
+[M::worker_pipeline::158.950*13.63] mapped 441495 sequences
+[M::worker_pipeline::176.381*13.35] mapped 445453 sequences
+[M::worker_pipeline::217.830*13.79] mapped 448348 sequences
+[M::worker_pipeline::253.267*13.82] mapped 434357 sequences
+[M::worker_pipeline::273.238*13.71] mapped 433560 sequences
+[M::worker_pipeline::314.024*13.97] mapped 433561 sequences
+[M::worker_pipeline::350.333*14.01] mapped 433288 sequences
+[M::worker_pipeline::369.045*13.91] mapped 434515 sequences
+[M::worker_pipeline::409.987*14.09] mapped 433453 sequences
+[M::worker_pipeline::437.672*14.09] mapped 434091 sequences
+[M::worker_pipeline::472.326*13.87] mapped 436095 sequences
+[M::worker_pipeline::472.750*13.86] mapped 111490 sequences
+[M::main] Version: 2.26-r1175
+[M::main] CMD: minimap2 -ax map-ont -t 16 Homo_sapiens.GRCh38.cdna.all.fa siFTO_3/20240301_1458_1F_PAS67788_1beb9119/fastq_pass/merged.fastq.gz
+[M::main] Real time: 472.865 sec; CPU: 6553.863 sec; Peak RSS: 5.208 GB
+[bam_sort_core] merging from 18 files and 1 in-memory blocks...
+
+real	13m2.110s
+user	116m27.657s
+sys	0m38.071s
+
+real	0m34.691s
+user	0m33.625s
+sys	0m1.024s
+
+real	0m19.883s
+user	0m19.226s
+sys	0m0.637s
+
+real	0m46.340s
+user	0m44.972s
+sys	0m1.322s
+
+real	0m45.831s
+user	0m44.489s
+sys	0m1.295s
+
+real	0m22.559s
+user	0m21.721s
+sys	0m0.813s
+
+real	0m32.801s
+user	0m31.656s
+sys	0m1.112s
+
+real	0m0.032s
+user	0m0.023s
+sys	0m0.007s
+
+real	0m0.030s
+user	0m0.026s
+sys	0m0.004s
+
+real	0m0.030s
+user	0m0.026s
+sys	0m0.003s
+
+real	0m0.030s
+user	0m0.027s
+sys	0m0.002s
+
+real	0m0.030s
+user	0m0.027s
+sys	0m0.002s
+
+real	0m0.030s
+user	0m0.022s
+sys	0m0.007s
+
+real	1m18.451s
+user	0m0.043s
+sys	0m26.255s

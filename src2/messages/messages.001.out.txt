@@ -1,0 +1,22 @@
+Wed Jun 26 16:54:12 GMT 2024
+/users/home/adrian/research/oskjuhlid/src
+about to start working
+the scratch dir is:
+/scratch/users/adrian/1164176-UazW
+copy working files to scratch
+about to map reads
+/scratch/users/adrian/1164176-UazW
+Homo_sapiens.GRCh38.cdna.all.fa
+siCtrl_1
+siCtrl_2
+siCtrl_3
+siFTO_1
+siFTO_2
+siFTO_3
+about to index generated bam file
+about to copy results out of scratch to my dirs
+/users/home/adrian/research/oskjuhlid/src
+/users/home/adrian/research/oskjuhlid/src
+about to remove scratch dir
+all done.
+Wed Jun 26 19:33:19 GMT 2024

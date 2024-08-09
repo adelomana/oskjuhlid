@@ -1,0 +1,10 @@
+Process Consumer-7:
+Traceback (most recent call last):
+  File "/users/home/adrian/.conda/envs/moa/lib/python3.7/multiprocessing/process.py", line 297, in _bootstrap
+    self.run()
+  File "/users/home/adrian/.conda/envs/moa/lib/python3.7/site-packages/m6anet/utils/helper.py", line 85, in run
+    result = self.task_function(*next_task_args,self.locks)
+  File "/users/home/adrian/.conda/envs/moa/lib/python3.7/site-packages/m6anet/utils/dataprep_utils.py", line 206, in index
+    f_index.write('%s,%d,%d,%d\n' %(transcript_id,read_index,pos_start,pos_end))
+ValueError: cannot convert float NaN to integer
+slurmstepd-compute-70: error: *** JOB 1178474 ON compute-70 CANCELLED AT 2024-07-31T11:06:35 ***

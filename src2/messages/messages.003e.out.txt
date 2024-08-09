@@ -1,0 +1,18 @@
+Wed Jul 31 16:59:14 GMT 2024
+/users/home/adrian/research/oskjuhlid/src
+about to start working
+the scratch dir is:
+/scratch/users/adrian/1179652-zB7g
+sample e
+about to copy files into scratch
+Wed Jul 31 16:59:14 GMT 2024
+Wed Jul 31 17:59:00 GMT 2024
+about to run data prep
+Wed Jul 31 17:59:00 GMT 2024
+Thu Aug  1 14:51:05 GMT 2024
+about to copy results out of scratch to my dirs
+Thu Aug  1 14:51:05 GMT 2024
+Thu Aug  1 14:51:16 GMT 2024
+about to remove scratch dir
+all done.
+Thu Aug  1 14:51:39 GMT 2024
